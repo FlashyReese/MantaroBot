@@ -1,2 +1,2 @@
 # MantaroBot
-Old but Gold
+Original Source of Mantaro by Kodehawa
